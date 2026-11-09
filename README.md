@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##### ##Use Case
 
 Swiggy Instamart delivers groceries and everyday items in six metro cities, and the leadership review keeps surfacing three problems: raw order exports that nobody trusts, retention teams that cannot see which customers are about to stop ordering, and a support desk overwhelmed by free-text tickets. This project builds one internal Customer Intelligence & Support Copilot that fixes all three by cleaning and validating the data, segmenting customers with RFM and K-Means, predicting customers likely to lapse, and triaging support tickets. Together, these give the Head of Customer Experience a single trusted tool for retention and support decisions.
@@ -27,3 +28,7 @@ Until then, keep these in place so the final notebook can be assembled quickly:
 * **Files already saved:** `data/clean/`, `data/instamart.db`, `sql/queries.sql`, `data/lapse_dataset.csv`, `outputs/customer_segments.csv`, `outputs/lapse_model.joblib`, `outputs/retention_list.csv`.
 * **Pinned versions:** add `scikit-learn==1.5.2` to `Requirements.txt`, since that's the version that runs on your machine.
 * **Notes to keep for the README:** the leakage argument (cutoff 2025-09-01), the Q6 tie explanation, the cluster-label reminder, and the Premium-list caveat.
+=======
+# INSTAMART---COPILOT
+Instamart Customer Support - capstone project
+>>>>>>> 970f4be7638c71b000c74b6c8c3f6fb34681698f
